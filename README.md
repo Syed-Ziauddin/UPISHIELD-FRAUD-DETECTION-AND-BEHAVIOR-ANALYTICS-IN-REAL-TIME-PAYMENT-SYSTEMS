@@ -1,0 +1,2 @@
+# UPISHIELD-FRAUD-DETECTION-AND-BEHAVIOR-ANALYTICS-IN-REAL-TIME-PAYMENT-SYSTEMS
+UPISHIELD is a real-time fraud detection and behavior analytics system designed to identify suspicious transactions in digital payment systems such as UPI. The project analyzes transaction patterns, user behavior, and other relevant features to detect potentially fraudulent activities and provide timely alerts.  Key Features
