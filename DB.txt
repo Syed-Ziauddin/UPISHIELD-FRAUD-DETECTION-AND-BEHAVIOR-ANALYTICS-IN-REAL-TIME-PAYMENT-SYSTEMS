@@ -1,0 +1,12 @@
+CREATE DATABASE fintech_users;
+USE fintech_users;
+
+CREATE TABLE  users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(100) UNIQUE NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    contact VARCHAR(20),
+    address TEXT,
+    password VARCHAR(100) NOT NULL
+);
+

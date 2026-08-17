@@ -1,0 +1,41 @@
+transaction id,merchant_category,amount (INR),transaction_status,sender_age_group,receiver_age_group,sender_state,sender_bank,receiver_bank,device_type,network_type,hour_of_day,day_of_week,is_weekend
+TXN0000071357,Entertainment,442,SUCCESS,26-35,26-35,Tamil Nadu,IndusInd,SBI,Android,4G,20,Saturday,1
+TXN0000160021,Shopping,3678,SUCCESS,46-55,18-25,Tamil Nadu,HDFC,ICICI,Android,5G,9,Monday,0
+TXN0000150232,Grocery,1909,SUCCESS,18-25,56+,Andhra Pradesh,PNB,HDFC,Android,5G,17,Thursday,0
+TXN0000150202,Utilities,770,SUCCESS,26-35,36-45,Delhi,Yes Bank,ICICI,iOS,4G,10,Thursday,0
+TXN0000086134,Food,575,SUCCESS,18-25,26-35,Karnataka,ICICI,HDFC,Android,5G,10,Sunday,1
+TXN0000043950,Fuel,553,SUCCESS,26-35,46-55,Gujarat,PNB,PNB,Android,5G,13,Thursday,0
+TXN0000144992,Healthcare,272,SUCCESS,36-45,18-25,Delhi,ICICI,HDFC,Android,4G,0,Friday,0
+TXN0000051414,Other,1596,SUCCESS,26-35,18-25,Karnataka,IndusInd,HDFC,Android,4G,13,Friday,0
+TXN0000141754,Entertainment,193,SUCCESS,26-35,26-35,Gujarat,SBI,Axis,Android,WiFi,9,Monday,0
+TXN0000132597,Food,139,SUCCESS,26-35,18-25,Andhra Pradesh,SBI,SBI,Android,5G,14,Friday,0
+TXN0000150232,Grocery,1909,SUCCESS,18-25,56+,Andhra Pradesh,PNB,HDFC,Android,5G,17,Thursday,0
+TXN0000135602,Healthcare,731,SUCCESS,56+,26-35,Telangana,Axis,HDFC,Android,4G,13,Wednesday,0
+TXN0000216102,Other,563,FAILED,18-25,26-35,Telangana,Axis,HDFC,Android,WiFi,16,Thursday,0
+TXN0000201466,Shopping,1946,SUCCESS,18-25,18-25,Maharashtra,Yes Bank,ICICI,Android,4G,12,Wednesday,0
+TXN0000166982,Transport,41,SUCCESS,56+,26-35,Andhra Pradesh,Kotak,HDFC,Android,5G,13,Wednesday,0
+TXN0000024355,Grocery,468,SUCCESS,18-25,26-35,Andhra Pradesh,Axis,ICICI,Android,5G,11,Sunday,1
+TXN0000011206,Food,69,SUCCESS,36-45,18-25,West Bengal,IndusInd,SBI,Android,WiFi,17,Wednesday,0
+TXN0000239630,Food,290,SUCCESS,36-45,36-45,Tamil Nadu,SBI,Yes Bank,iOS,4G,11,Tuesday,0
+TXN0000180006,Food,132,SUCCESS,26-35,18-25,Maharashtra,SBI,Yes Bank,Android,4G,14,Friday,0
+TXN0000125150,Other,606,SUCCESS,18-25,18-25,Gujarat,IndusInd,Axis,iOS,5G,15,Monday,0
+TXN0000047589,Utilities,2654,SUCCESS,26-35,36-45,Tamil Nadu,ICICI,Kotak,Android,5G,13,Friday,0
+TXN0000158019,Food,88,FAILED,26-35,18-25,Gujarat,SBI,Kotak,Android,5G,23,Wednesday,0
+TXN0000162728,Food,286,FAILED,26-35,18-25,Maharashtra,IndusInd,ICICI,Android,WiFi,21,Friday,0
+TXN0000215650,Grocery,2244,SUCCESS,36-45,36-45,Delhi,Kotak,Axis,Android,5G,19,Saturday,1
+TXN0000099987,Entertainment,423,SUCCESS,26-35,18-25,Gujarat,SBI,IndusInd,iOS,4G,8,Tuesday,0
+TXN0000084666,Food,522,SUCCESS,56+,36-45,Maharashtra,Yes Bank,IndusInd,Android,4G,10,Sunday,1
+TXN0000122884,Transport,47,SUCCESS,18-25,18-25,Gujarat,Axis,PNB,Android,4G,19,Wednesday,0
+TXN0000161207,Shopping,847,SUCCESS,18-25,26-35,Andhra Pradesh,ICICI,HDFC,iOS,5G,0,Monday,0
+TXN0000196554,Grocery,169,SUCCESS,26-35,26-35,Gujarat,SBI,SBI,Android,5G,1,Thursday,0
+TXN0000084666,Food,522,SUCCESS,56+,36-45,Maharashtra,Yes Bank,IndusInd,Android,4G,10,Sunday,1
+TXN0000139488,Transport,257,SUCCESS,18-25,26-35,West Bengal,IndusInd,SBI,iOS,4G,9,Sunday,1
+TXN0000154556,Other,205,SUCCESS,36-45,26-35,Uttar Pradesh,HDFC,HDFC,iOS,4G,19,Monday,0
+TXN0000084666,Food,522,SUCCESS,56+,36-45,Maharashtra,Yes Bank,IndusInd,Android,4G,10,Sunday,1
+TXN0000005312,Entertainment,113,SUCCESS,36-45,36-45,Maharashtra,HDFC,Axis,Android,WiFi,9,Wednesday,0
+TXN0000139488,Transport,257,SUCCESS,18-25,26-35,West Bengal,IndusInd,SBI,iOS,4G,9,Sunday,1
+TXN0000168799,Shopping,1714,SUCCESS,56+,36-45,Maharashtra,PNB,SBI,Android,4G,21,Thursday,0
+TXN0000247673,Entertainment,225,SUCCESS,18-25,26-35,Karnataka,SBI,PNB,Android,4G,17,Tuesday,0
+TXN0000247673,Entertainment,225,SUCCESS,18-25,26-35,Karnataka,SBI,PNB,Android,4G,17,Tuesday,0
+TXN0000239565,Grocery,1850,SUCCESS,36-45,56+,West Bengal,SBI,HDFC,Web,WiFi,19,Saturday,1
+TXN0000005312,Entertainment,113,SUCCESS,36-45,36-45,Maharashtra,HDFC,Axis,Android,WiFi,9,Wednesday,0
