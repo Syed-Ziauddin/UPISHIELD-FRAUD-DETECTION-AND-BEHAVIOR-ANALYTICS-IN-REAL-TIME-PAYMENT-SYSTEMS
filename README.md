@@ -214,7 +214,7 @@ Fraud analysts can monitor:
 
 # 🔄 Real-Time Detection Workflow
 
-![Detection Workflow](docs/images/detection-workflow.png)
+![Detection Workflow](https://github.com/Syed-Ziauddin/UPISHIELD-FRAUD-DETECTION-AND-BEHAVIOR-ANALYTICS-IN-REAL-TIME-PAYMENT-SYSTEMS/blob/main/detection-workflow.png)
 
 The transaction follows a simple analytical sequence:
 
