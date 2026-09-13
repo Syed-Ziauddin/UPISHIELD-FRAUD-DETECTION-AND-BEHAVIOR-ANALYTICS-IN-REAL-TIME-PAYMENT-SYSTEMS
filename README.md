@@ -127,7 +127,7 @@ merely a binary classification problem.
 
 # 🏗️ System Architecture
 
-![UPISHIELD Architecture](docs/images/architecture.png)
+![UPISHIELD Architecture](https://github.com/Syed-Ziauddin/UPISHIELD-FRAUD-DETECTION-AND-BEHAVIOR-ANALYTICS-IN-REAL-TIME-PAYMENT-SYSTEMS/blob/main/architecture.png)
 
 The architecture is organized into six logical layers:
 
