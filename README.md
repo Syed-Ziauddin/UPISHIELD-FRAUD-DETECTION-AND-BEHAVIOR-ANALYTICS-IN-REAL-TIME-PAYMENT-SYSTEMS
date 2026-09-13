@@ -268,7 +268,7 @@ The amount is identical, but the behavioral context is very different.
 
 # 🧠 Behavioral Analytics
 
-![Behavioral Analytics](docs/images/behavioral-analytics.png)
+![Behavioral Analytics](https://github.com/Syed-Ziauddin/UPISHIELD-FRAUD-DETECTION-AND-BEHAVIOR-ANALYTICS-IN-REAL-TIME-PAYMENT-SYSTEMS/blob/main/behavioral-analytics.png)
 
 Behavioral analytics is one of the core ideas behind UPISHIELD.
 
